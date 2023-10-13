@@ -8,6 +8,7 @@ public class BeerbeckApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BeerbeckApplication.class, args);
+		
 	}
 
 }
